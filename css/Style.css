@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+main{
+	width: 100%;min-height: 500px
+}
+#feature{
+	width: 100%;min-height: 700px;background-image: url("../images/bg2.png");background-repeat: no-repeat;background-size: cover;background-position: center bottom
+}
+.pt-30{
+	padding-top: 30px
+}
+.gach-chan{
+	border-bottom: 2px solid darkred
+}
+.text-do{
+	color: darkred
+}
+.vien{
+	border: 1px solid white;text-align: center;padding: 20px;display: flex;flex-direction: column;justify-content: center;align-items: center
+}
+.vien a{
+	text-decoration: none;color: darkred
+}
+.vien a:hover{
+	color: gray
+}
+#contact{
+	width: 100%;min-height: 800px;background: url("../images/Banner2.png");background-repeat: no-repeat;background-size: cover;background-position: center center
+}
+.shadow{
+	width: 100%;min-height: 400px;border: 1px solid gray;box-shadow: 5px 5px 5px gray;padding: 40px	
+}
+.form-control{
+	padding: 8px;width: 100%;margin-bottom: 10px;
+}
